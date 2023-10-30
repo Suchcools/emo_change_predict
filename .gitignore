@@ -1,0 +1,15 @@
+*.png
+*.pdf
+*.wav
+*.mp4
+*.mp3
+*.log
+*.csv
+*.xlxs
+*.pth
+*.pkl
+*.npz
+*.npy
+*.jpg
+*.zip
+/ArousalRegress/Data/
